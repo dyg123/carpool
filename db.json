@@ -84,6 +84,21 @@
 					"updateBy":""
 				},
 				{
+					"carId":105,
+					"content":"车找人，10号周五下班后（预计七点左右）北京回涉县15932790533，微信同号",
+					"createBy":"",
+					"createTime":"2023-11-09 09:12:00",
+					"departureTime":"2023-11-10",
+					"departureTimeWeek":"星期五",
+					"destination":"北京到涉县",
+					"params":{
+						
+					},
+					"telephone":"15932790533",
+					"ttansportation":"车找人",
+					"updateBy":""
+				},
+				{
 					"carId":104,
 					"content":"车找人，本周五10号，晚7点左右北京立水桥南地铁站-涉县送到家，2位12号中午回北京，2位手机号微信：18612061086",
 					"createBy":"",
