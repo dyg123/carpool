@@ -50,33 +50,6 @@
 					"destination":"北京到涉县",
 					"telephone":"15231850055",
 					"ttansportation":"车找人"
-				},
-				{
-					"carId":189,
-					"content":"车找人，今天下午五点以后马驹桥或者亦庄到涉县县城，电话15811434987",
-					"departureTime":"2023-11-22",
-					"departureTimeWeek":"星期三",
-					"destination":"北京到涉县",
-					"telephone":"15811434987",
-					"ttansportation":"车找人"
-				},
-				{
-					"carId":187,
-					"content":"车找人，22号下午6点北京回涉县，差3位16630087068",
-					"departureTime":"2023-11-22",
-					"departureTimeWeek":"星期三",
-					"destination":"北京到涉县",
-					"telephone":"16630087068",
-					"ttansportation":"车找人"
-				},
-				{
-					"carId":178,
-					"content":"车找人22号上午涉县到北京昌平回龙观天通苑13621327219",
-					"departureTime":"2023-11-22",
-					"departureTimeWeek":"星期三",
-					"destination":"涉县到北京",
-					"telephone":"13621327219",
-					"ttansportation":"车找人"
 				}
 			]
 		},
