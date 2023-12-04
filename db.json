@@ -4,96 +4,88 @@
 	},
 	"posts":[
 		{
-			"bj":[
+			"id":"bj_0",
+			"rows":[
 				{
-					"id":0,
-					"rows":[
-						{
-							"carId":232,
-							"content":"车找人，5号早上，北京马驹桥附近到涉县井店镇附近，电话17610122292微信同步",
-							"departureTime":"2023-12-05",
-							"departureTimeWeek":"星期二 (明天)",
-							"destination":"北京到涉县",
-							"telephone":"17610122292",
-							"ttansportation":"车找人"
-						},
-						{
-							"carId":223,
-							"content":"车找人，12月5号涉县到马驹桥19075343012",
-							"departureTime":"2023-12-05",
-							"departureTimeWeek":"星期二 (明天)",
-							"destination":"涉县到北京",
-							"telephone":"19075343012",
-							"ttansportation":"车找人"
-						},
-						{
-							"carId":224,
-							"content":"车找人，12月8号下午7点半，北京通州潞城地铁站东北口到涉县，联系电话15931003662",
-							"departureTime":"2023-12-08",
-							"departureTimeWeek":"星期五",
-							"destination":"北京到涉县",
-							"telephone":"15931003662",
-							"ttansportation":"车找人"
-						}
-					]
+					"carId":232,
+					"content":"车找人，5号早上，北京马驹桥附近到涉县井店镇附近，电话17610122292微信同步",
+					"departureTime":"2023-12-05",
+					"departureTimeWeek":"星期二 (明天)",
+					"destination":"北京到涉县",
+					"telephone":"17610122292",
+					"ttansportation":"车找人"
 				},
 				{
-					"id":1,
-					"rows":[
-						{
-							"carId":233,
-							"content":"人找车，4号或者5号涉县去北京一个人。电话18732001976",
-							"departureTime":"2023-12-04",
-							"departureTimeWeek":"星期一 (今天)",
-							"destination":"涉县到北京",
-							"telephone":"18732001976",
-							"ttansportation":"人找车"
-						},
-						{
-							"carId":227,
-							"content":"人找车，5号上午马驹桥回涉县，电话18730028749",
-							"departureTime":"2023-12-05",
-							"departureTimeWeek":"星期二 (明天)",
-							"destination":"北京到涉县",
-							"telephone":"18730028749",
-							"ttansportation":"人找车"
-						},
-						{
-							"carId":230,
-							"content":"人找车，6号涉县去北京15830049449",
-							"departureTime":"2023-12-06",
-							"departureTimeWeek":"星期三 (后天)",
-							"destination":"涉县到北京",
-							"telephone":"13700300606",
-							"ttansportation":"人找车"
-						},
-						{
-							"carId":214,
-							"content":"人找车，两个人，12月13号上午，北京天坛，到涉县13683623960",
-							"departureTime":"2023-12-13",
-							"departureTimeWeek":"星期三",
-							"destination":"北京到涉县",
-							"telephone":"13683623960",
-							"ttansportation":"人找车"
-						}
-					]
+					"carId":223,
+					"content":"车找人，12月5号涉县到马驹桥19075343012",
+					"departureTime":"2023-12-05",
+					"departureTimeWeek":"星期二 (明天)",
+					"destination":"涉县到北京",
+					"telephone":"19075343012",
+					"ttansportation":"车找人"
+				},
+				{
+					"carId":224,
+					"content":"车找人，12月8号下午7点半，北京通州潞城地铁站东北口到涉县，联系电话15931003662",
+					"departureTime":"2023-12-08",
+					"departureTimeWeek":"星期五",
+					"destination":"北京到涉县",
+					"telephone":"15931003662",
+					"ttansportation":"车找人"
 				}
 			]
 		},
 		{
-			"hd":[
+			"id":"bj_1",
+			"rows":[
 				{
-					"id":0,
-					"rows":[
-						
-					]
+					"carId":233,
+					"content":"人找车，4号或者5号涉县去北京一个人。电话18732001976",
+					"departureTime":"2023-12-04",
+					"departureTimeWeek":"星期一 (今天)",
+					"destination":"涉县到北京",
+					"telephone":"18732001976",
+					"ttansportation":"人找车"
 				},
 				{
-					"id":1,
-					"rows":[
-						
-					]
+					"carId":227,
+					"content":"人找车，5号上午马驹桥回涉县，电话18730028749",
+					"departureTime":"2023-12-05",
+					"departureTimeWeek":"星期二 (明天)",
+					"destination":"北京到涉县",
+					"telephone":"18730028749",
+					"ttansportation":"人找车"
+				},
+				{
+					"carId":230,
+					"content":"人找车，6号涉县去北京15830049449",
+					"departureTime":"2023-12-06",
+					"departureTimeWeek":"星期三 (后天)",
+					"destination":"涉县到北京",
+					"telephone":"13700300606",
+					"ttansportation":"人找车"
+				},
+				{
+					"carId":214,
+					"content":"人找车，两个人，12月13号上午，北京天坛，到涉县13683623960",
+					"departureTime":"2023-12-13",
+					"departureTimeWeek":"星期三",
+					"destination":"北京到涉县",
+					"telephone":"13683623960",
+					"ttansportation":"人找车"
 				}
+			]
+		},
+		{
+			"id":"hd_0",
+			"rows":[
+				
+			]
+		},
+		{
+			"id":"hd_1",
+			"rows":[
+				
 			]
 		}
 	]
