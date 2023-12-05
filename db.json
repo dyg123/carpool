@@ -107,8 +107,18 @@
 			"id":"hd_0",
 			"rows":[
 				{
+					"carId":261,
+					"content":"每天早上4:00--5:00涉县到邯郸火车站。每天早上7:00--7:30邯郸火车站到涉县。",
+					"departureTime":"2023-12-05",
+					"departureTimeWeek":"星期二 (今天)",
+					"destination":"涉县到邯郸",
+					"recommendStatus":"1",
+					"telephone":"15503014991",
+					"ttansportation":"车找人"
+				},
+				{
 					"carId":260,
-					"content":"每晚8:00--9:00 左右交通岗去邯郸。每晚22:30--02:30左右邯郸火车站回涉县。",
+					"content":"每天晚上8:00--9:00 左右涉县去邯郸火车站。每天晚上22:30--02:30左右邯郸火车站回涉县。",
 					"departureTime":"2023-12-05",
 					"departureTimeWeek":"星期二 (今天)",
 					"destination":"涉县到邯郸",
