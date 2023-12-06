@@ -115,6 +115,16 @@
 					"recommendStatus":"1",
 					"telephone":"17752953363",
 					"ttansportation":"车找人"
+				},
+				{
+					"carId":265,
+					"content":"邯郸到长治，晚上凌晨三点左右发车，长治回邯郸早晨七点发车，回北京到邯郸可坐上午10:44的火车，11:21的火车回北京，15131050831",
+					"departureTime":"2023-12-06",
+					"departureTimeWeek":"星期三 (今天)",
+					"destination":"邯郸到涉县",
+					"recommendStatus":"1",
+					"telephone":"15131050831",
+					"ttansportation":"车找人"
 				}
 			]
 		},
