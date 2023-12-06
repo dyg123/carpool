@@ -17,6 +17,16 @@
 					"ttansportation":"车找人"
 				},
 				{
+					"carId":262,
+					"content":"私家车找人，6号傍晚从涉县井店镇附近到北京南六环太和桥附近，电话17610122292，微信同号",
+					"departureTime":"2023-12-06",
+					"departureTimeWeek":"星期三 (明天)",
+					"destination":"涉县到北京",
+					"recommendStatus":"0",
+					"telephone":"17610122292",
+					"ttansportation":"车找人"
+				},
+				{
 					"carId":258,
 					"content":"车找人，8号星期五下午北京积水潭地铁站、牡丹园地铁站附近回涉县，有走的老乡联系16630069358。",
 					"departureTime":"2023-12-08",
@@ -94,6 +104,26 @@
 					"destination":"涉县到邯郸",
 					"recommendStatus":"1",
 					"telephone":"17752953363",
+					"ttansportation":"车找人"
+				},
+				{
+					"carId":264,
+					"content":"明天早上7:00--7:30涉县八五去邯郸全境缺一位，有人发电13784013555",
+					"departureTime":"2023-12-06",
+					"departureTimeWeek":"星期三 (明天)",
+					"destination":"涉县到邯郸",
+					"recommendStatus":"0",
+					"telephone":"13784013555",
+					"ttansportation":"车找人"
+				},
+				{
+					"carId":263,
+					"content":"车找人，明天7:30-8:00左右，邯郸高铁站到涉县电话18031065188",
+					"departureTime":"2023-12-06",
+					"departureTimeWeek":"星期三 (明天)",
+					"destination":"涉县到邯郸东站",
+					"recommendStatus":"0",
+					"telephone":"18031065188",
 					"ttansportation":"车找人"
 				}
 			]
