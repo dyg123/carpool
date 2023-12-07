@@ -7,30 +7,10 @@
 			"id":"bj_0",
 			"rows":[
 				{
-					"carId":264,
-					"content":"今天下班，北京回涉县，车找人，联系电话13811357083",
-					"departureTime":"2023-12-06",
-					"departureTimeWeek":"星期三 (今天)",
-					"destination":"北京到涉县",
-					"recommendStatus":"0",
-					"telephone":"13811357083",
-					"ttansportation":"车找人"
-				},
-				{
-					"carId":262,
-					"content":"私家车找人，6号傍晚从涉县井店镇附近到北京南六环太和桥附近，电话17610122292，微信同号",
-					"departureTime":"2023-12-06",
-					"departureTimeWeek":"星期三 (今天)",
-					"destination":"涉县到北京",
-					"recommendStatus":"0",
-					"telephone":"17610122292",
-					"ttansportation":"车找人"
-				},
-				{
 					"carId":263,
 					"content":"车找人，明天中午涉县到北京，私家车，13039386795",
 					"departureTime":"2023-12-07",
-					"departureTimeWeek":"星期四 (明天)",
+					"departureTimeWeek":"星期四 (今天)",
 					"destination":"涉县到北京",
 					"recommendStatus":"0",
 					"telephone":"13039386795",
@@ -40,7 +20,7 @@
 					"carId":258,
 					"content":"车找人，8号星期五下午北京积水潭地铁站、牡丹园地铁站附近回涉县，有走的老乡联系16630069358。",
 					"departureTime":"2023-12-08",
-					"departureTimeWeek":"星期五 (后天)",
+					"departureTimeWeek":"星期五 (明天)",
 					"destination":"北京到涉县",
 					"recommendStatus":"0",
 					"telephone":"16630069358",
@@ -50,7 +30,7 @@
 					"carId":257,
 					"content":"车找人,8号周五下班7点左右北京-涉县.10号周日涉县-北京手机号微信：13581964979",
 					"departureTime":"2023-12-08",
-					"departureTimeWeek":"星期五 (后天)",
+					"departureTimeWeek":"星期五 (明天)",
 					"destination":"北京到涉县",
 					"recommendStatus":"0",
 					"telephone":"13581964979",
@@ -60,10 +40,20 @@
 					"carId":224,
 					"content":"车找人，12月8号下午7点半，北京通州潞城地铁站东北口到涉县，联系电话15931003662",
 					"departureTime":"2023-12-08",
-					"departureTimeWeek":"星期五 (后天)",
+					"departureTimeWeek":"星期五 (明天)",
 					"destination":"北京到涉县",
 					"recommendStatus":"0",
 					"telephone":"15931003662",
+					"ttansportation":"车找人"
+				},
+				{
+					"carId":266,
+					"content":"车找人10号礼拜日涉县到北京朝阳区大屯路地铁站，电话13483408052微信同步",
+					"departureTime":"2023-12-10",
+					"departureTimeWeek":"星期日",
+					"destination":"涉县到北京",
+					"recommendStatus":"0",
+					"telephone":"13483408052",
 					"ttansportation":"车找人"
 				}
 			]
@@ -71,16 +61,6 @@
 		{
 			"id":"bj_1",
 			"rows":[
-				{
-					"carId":230,
-					"content":"人找车，6号涉县去北京15830049449",
-					"departureTime":"2023-12-06",
-					"departureTimeWeek":"星期三 (今天)",
-					"destination":"涉县到北京",
-					"recommendStatus":"0",
-					"telephone":"13700300606",
-					"ttansportation":"人找车"
-				},
 				{
 					"carId":214,
 					"content":"人找车，两个人，12月13号上午，北京天坛，到涉县13683623960",
@@ -99,8 +79,8 @@
 				{
 					"carId":261,
 					"content":"每天早上4:00--5:00涉县到邯郸火车站。每天早上7:00--7:30邯郸火车站到涉县。",
-					"departureTime":"2023-12-06",
-					"departureTimeWeek":"星期三 (今天)",
+					"departureTime":"2023-12-07",
+					"departureTimeWeek":"星期四 (今天)",
 					"destination":"涉县到邯郸",
 					"recommendStatus":"1",
 					"telephone":"15503014991",
@@ -109,8 +89,8 @@
 				{
 					"carId":260,
 					"content":"每天晚上8:00--9:00 左右涉县去邯郸火车站。每天晚上22:30--02:30左右邯郸火车站回涉县。",
-					"departureTime":"2023-12-06",
-					"departureTimeWeek":"星期三 (今天)",
+					"departureTime":"2023-12-07",
+					"departureTimeWeek":"星期四 (今天)",
 					"destination":"涉县到邯郸",
 					"recommendStatus":"1",
 					"telephone":"17752953363",
@@ -119,8 +99,8 @@
 				{
 					"carId":265,
 					"content":"邯郸到长治，晚上凌晨三点左右发车，长治回邯郸早晨七点发车，回北京到邯郸可坐上午10:44的火车，11:21的火车回北京，15131050831",
-					"departureTime":"2023-12-06",
-					"departureTimeWeek":"星期三 (今天)",
+					"departureTime":"2023-12-07",
+					"departureTimeWeek":"星期四 (今天)",
 					"destination":"邯郸到涉县",
 					"recommendStatus":"1",
 					"telephone":"15131050831",
