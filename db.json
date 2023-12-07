@@ -17,6 +17,16 @@
 					"ttansportation":"车找人"
 				},
 				{
+					"carId":269,
+					"content":"车找人，私家车明天上午8号，涉县到北京，有到北京的老乡联系13520056752",
+					"departureTime":"2023-12-08",
+					"departureTimeWeek":"星期五 (明天)",
+					"destination":"涉县到北京",
+					"recommendStatus":"0",
+					"telephone":"13520056752",
+					"ttansportation":"车找人"
+				},
+				{
 					"carId":258,
 					"content":"车找人，8号星期五下午北京积水潭地铁站、牡丹园地铁站附近回涉县，有走的老乡联系16630069358。",
 					"departureTime":"2023-12-08",
@@ -61,6 +71,16 @@
 		{
 			"id":"bj_1",
 			"rows":[
+				{
+					"carId":270,
+					"content":"人找车，北京丰台回涉县，今天下午，明天上午都可以，两个人，13520056752",
+					"departureTime":"2023-12-08",
+					"departureTimeWeek":"星期五 (明天)",
+					"destination":"北京到涉县",
+					"recommendStatus":"0",
+					"telephone":"13520056752",
+					"ttansportation":"人找车"
+				},
 				{
 					"carId":267,
 					"content":"8号晚上有北沙滩回涉县的车吗？人找车，2人，电话18618321853",
