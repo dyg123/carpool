@@ -47,6 +47,16 @@
 					"ttansportation":"车找人"
 				},
 				{
+					"carId":271,
+					"content":"车找人，12.9号本周六晚涉县到北京，私家车，目前没人，需要坐车老乡打电话13691336323",
+					"departureTime":"2023-12-09",
+					"departureTimeWeek":"星期六 (明天)",
+					"destination":"涉县到北京",
+					"recommendStatus":"0",
+					"telephone":"13691336323",
+					"ttansportation":"车找人"
+				},
+				{
 					"carId":266,
 					"content":"车找人10号礼拜日涉县到北京朝阳区大屯路地铁站，电话13483408052微信同步",
 					"departureTime":"2023-12-10",
@@ -61,6 +71,16 @@
 		{
 			"id":"bj_1",
 			"rows":[
+				{
+					"carId":272,
+					"content":"今天晚上大兴旧宫回涉县，两个人找车，有请联系15227450223",
+					"departureTime":"2023-12-08",
+					"departureTimeWeek":"星期五 (今天)",
+					"destination":"北京到涉县",
+					"recommendStatus":"0",
+					"telephone":"15227450223",
+					"ttansportation":"人找车"
+				},
 				{
 					"carId":270,
 					"content":"人找车，北京丰台回涉县，今天下午，明天上午都可以，两个人，13520056752",
