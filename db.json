@@ -15,7 +15,24 @@
 					"recommendStatus":"0",
 					"telephone":"18612061086",
 					"ttansportation":"车找人",
-					"weather":"北京 中雪 -5℃ ~ -2℃"
+					"weatherList":[
+						"北京 中雪 -6℃ ~ -2℃",
+						"涉县 中雪 -4℃ ~ -1℃"
+					]
+				},
+				{
+					"carId":286,
+					"content":"15号上午涉县到北京，下午北京回涉县，车找人，联系电话13731032020",
+					"departureTime":"2023-12-15",
+					"departureTimeWeek":"星期五 (明天)",
+					"destination":"涉县到北京",
+					"recommendStatus":"0",
+					"telephone":"13731032020",
+					"ttansportation":"车找人",
+					"weatherList":[
+						"北京 阴 -14℃ ~ -2℃",
+						"涉县 小雪 -15℃ ~ -1℃"
+					]
 				}
 			]
 		},
@@ -37,7 +54,10 @@
 					"recommendStatus":"1",
 					"telephone":"15503014991",
 					"ttansportation":"车找人",
-					"weather":"邯郸 中雪 -6℃ ~ -1℃"
+					"weatherList":[
+						"邯郸 中雪 -4℃ ~ -1℃",
+						"涉县 中雪 -4℃ ~ -1℃"
+					]
 				},
 				{
 					"carId":260,
@@ -48,7 +68,10 @@
 					"recommendStatus":"1",
 					"telephone":"17752953363",
 					"ttansportation":"车找人",
-					"weather":"邯郸 中雪 -6℃ ~ -1℃"
+					"weatherList":[
+						"邯郸 中雪 -4℃ ~ -1℃",
+						"涉县 中雪 -4℃ ~ -1℃"
+					]
 				},
 				{
 					"carId":265,
@@ -59,7 +82,10 @@
 					"recommendStatus":"1",
 					"telephone":"15131050831",
 					"ttansportation":"车找人",
-					"weather":"邯郸 中雪 -6℃ ~ -1℃"
+					"weatherList":[
+						"邯郸 中雪 -4℃ ~ -1℃",
+						"涉县 中雪 -4℃ ~ -1℃"
+					]
 				}
 			]
 		},
