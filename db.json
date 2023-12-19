@@ -7,101 +7,45 @@
 			"id":"bj_0",
 			"rows":[
 				{
-					"carId":305,
-					"content":"车找人，今天下午四点，北京马驹桥回涉县电话15830002462",
-					"departureTime":"2023-12-18",
-					"departureTimeWeek":"星期一 (今天)",
-					"destination":"北京到涉县",
-					"recommendStatus":"0",
-					"telephone":"15830002462",
-					"ttansportation":"车找人",
-					"weatherList":[
-						"北京 晴 -13℃ ~ -5℃",
-						"涉县 多云 -7℃ ~ -1℃"
-					]
-				},
-				{
-					"carId":302,
-					"content":"车找人，今天下午三点左右涉县回北京，17732066823",
-					"departureTime":"2023-12-18",
-					"departureTimeWeek":"星期一 (今天)",
-					"destination":"涉县到北京",
-					"recommendStatus":"0",
-					"telephone":"17732066823",
-					"ttansportation":"车找人",
-					"weatherList":[
-						"北京 晴 -13℃ ~ -5℃",
-						"涉县 多云 -7℃ ~ -1℃"
-					]
-				},
-				{
-					"carId":298,
-					"content":"车找人，18号周一下午三点左右涉县回北京，17732066823",
-					"departureTime":"2023-12-18",
-					"departureTimeWeek":"星期一 (今天)",
-					"destination":"涉县到北京",
-					"recommendStatus":"0",
-					"telephone":"17732066823",
-					"ttansportation":"车找人",
-					"weatherList":[
-						"北京 晴 -13℃ ~ -5℃",
-						"涉县 多云 -7℃ ~ -1℃"
-					]
-				},
-				{
-					"carId":299,
-					"content":"车找人明天找早上北京回涉县13463026362",
-					"departureTime":"2023-12-18",
-					"departureTimeWeek":"星期一 (今天)",
-					"destination":"北京到涉县",
-					"recommendStatus":"0",
-					"telephone":"13463026362",
-					"ttansportation":"车找人",
-					"weatherList":[
-						"北京 晴 -13℃ ~ -5℃",
-						"涉县 多云 -7℃ ~ -1℃"
-					]
-				},
-				{
 					"carId":304,
 					"content":"车找人，明天早上涉县去北京，15030030588",
 					"departureTime":"2023-12-19",
-					"departureTimeWeek":"星期二 (明天)",
+					"departureTimeWeek":"星期二 (今天)",
 					"destination":"涉县到北京",
 					"recommendStatus":"0",
 					"telephone":"15030030588",
 					"ttansportation":"车找人",
 					"weatherList":[
 						"北京 晴 -12℃ ~ -4℃",
-						"涉县 晴 -7℃ ~ 1℃"
+						"涉县 晴 -8℃ ~ 0℃"
 					]
 				},
 				{
 					"carId":300,
 					"content":"车找人，19号中午后涉县往北京北五环方向，天通苑.北七家，有回京的提前预约了，17319230392微信同号",
 					"departureTime":"2023-12-19",
-					"departureTimeWeek":"星期二 (明天)",
+					"departureTimeWeek":"星期二 (今天)",
 					"destination":"涉县到北京",
 					"recommendStatus":"0",
 					"telephone":"17319230392",
 					"ttansportation":"车找人",
 					"weatherList":[
 						"北京 晴 -12℃ ~ -4℃",
-						"涉县 晴 -7℃ ~ 1℃"
+						"涉县 晴 -8℃ ~ 0℃"
 					]
 				},
 				{
 					"carId":303,
 					"content":"车找人，21号周四晚上北京顺义石门地铁到涉县，联系电话同微信18612061086",
 					"departureTime":"2023-12-21",
-					"departureTimeWeek":"星期四",
+					"departureTimeWeek":"星期四 (后天)",
 					"destination":"北京到涉县",
 					"recommendStatus":"0",
 					"telephone":"18612061086",
 					"ttansportation":"车找人",
 					"weatherList":[
-						"北京 晴 -14℃ ~ -7℃",
-						"涉县 晴 -15℃ ~ -4℃"
+						"北京 霾 -15℃ ~ -5℃",
+						"涉县 晴 -16℃ ~ -4℃"
 					]
 				}
 			]
@@ -113,28 +57,28 @@
 					"carId":301,
 					"content":"人找车,19号晚上,两个人，北京马驹桥回涉县，电话15932793170",
 					"departureTime":"2023-12-19",
-					"departureTimeWeek":"星期二 (明天)",
+					"departureTimeWeek":"星期二 (今天)",
 					"destination":"北京到涉县",
 					"recommendStatus":"0",
 					"telephone":"15932793170",
 					"ttansportation":"人找车",
 					"weatherList":[
 						"北京 晴 -12℃ ~ -4℃",
-						"涉县 晴 -7℃ ~ 1℃"
+						"涉县 晴 -8℃ ~ 0℃"
 					]
 				},
 				{
 					"carId":306,
 					"content":"人找车，20号北京回涉县一个人，16631042958",
 					"departureTime":"2023-12-20",
-					"departureTimeWeek":"星期三 (后天)",
+					"departureTimeWeek":"星期三 (明天)",
 					"destination":"北京到涉县",
 					"recommendStatus":"0",
 					"telephone":"16631042958",
 					"ttansportation":"人找车",
 					"weatherList":[
-						"北京 多云 -14℃ ~ -6℃",
-						"涉县 晴 -16℃ ~ -3℃"
+						"北京 晴 -13℃ ~ -6℃",
+						"涉县 晴 -13℃ ~ -4℃"
 					]
 				}
 			]
@@ -145,43 +89,43 @@
 				{
 					"carId":261,
 					"content":"每天早上4:00--5:00涉县到邯郸火车站。每天早上7:00--7:30邯郸火车站到涉县。",
-					"departureTime":"2023-12-18",
-					"departureTimeWeek":"星期一 (今天)",
+					"departureTime":"2023-12-19",
+					"departureTimeWeek":"星期二 (今天)",
 					"destination":"涉县到邯郸",
 					"recommendStatus":"1",
 					"telephone":"15503014991",
 					"ttansportation":"车找人",
 					"weatherList":[
-						"邯郸 霾 -8℃ ~ -1℃",
-						"涉县 多云 -7℃ ~ -1℃"
+						"邯郸 霾 -12℃ ~ -1℃",
+						"涉县 晴 -8℃ ~ 0℃"
 					]
 				},
 				{
 					"carId":260,
 					"content":"每天晚上8:00--9:00 左右涉县去邯郸火车站。每天晚上22:30--02:30左右邯郸火车站回涉县。",
-					"departureTime":"2023-12-18",
-					"departureTimeWeek":"星期一 (今天)",
+					"departureTime":"2023-12-19",
+					"departureTimeWeek":"星期二 (今天)",
 					"destination":"涉县到邯郸",
 					"recommendStatus":"1",
 					"telephone":"17752953363",
 					"ttansportation":"车找人",
 					"weatherList":[
-						"邯郸 霾 -8℃ ~ -1℃",
-						"涉县 多云 -7℃ ~ -1℃"
+						"邯郸 霾 -12℃ ~ -1℃",
+						"涉县 晴 -8℃ ~ 0℃"
 					]
 				},
 				{
 					"carId":265,
 					"content":"邯郸到长治，晚上凌晨三点左右发车，长治回邯郸早晨七点发车，回北京到邯郸可坐上午10:44的火车，11:21的火车回北京，15131050831",
-					"departureTime":"2023-12-18",
-					"departureTimeWeek":"星期一 (今天)",
+					"departureTime":"2023-12-19",
+					"departureTimeWeek":"星期二 (今天)",
 					"destination":"邯郸到涉县",
 					"recommendStatus":"1",
 					"telephone":"15131050831",
 					"ttansportation":"车找人",
 					"weatherList":[
-						"邯郸 霾 -8℃ ~ -1℃",
-						"涉县 多云 -7℃ ~ -1℃"
+						"邯郸 霾 -12℃ ~ -1℃",
+						"涉县 晴 -8℃ ~ 0℃"
 					]
 				}
 			]
