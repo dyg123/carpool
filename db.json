@@ -77,6 +77,20 @@
 					]
 				},
 				{
+					"carId":322,
+					"content":"车找人:23号中午吃完饭涉县到北京马驹桥附近，电话13483008079",
+					"departureTime":"2023-12-23",
+					"departureTimeWeek":"星期六 (后天)",
+					"destination":"涉县到北京",
+					"recommendStatus":"0",
+					"telephone":"13483008079",
+					"ttansportation":"车找人",
+					"weatherList":[
+						"北京 多云 -10℃ ~ 0℃",
+						"涉县 晴 -9℃ ~ 1℃"
+					]
+				},
+				{
 					"carId":320,
 					"content":"车找人，23号星期六涉县到北京积水潭地铁站、牡丹园地铁站附近，有走的老乡联系16630069358。",
 					"departureTime":"2023-12-23",
